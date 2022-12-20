@@ -1,0 +1,3 @@
+input("inter your name")
+input("inter your age")
+input("inter your date of birth")
